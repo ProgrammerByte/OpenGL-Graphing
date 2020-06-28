@@ -1,0 +1,2 @@
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\Debug\Graphing.exe
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\Debug\Graphing.pdb

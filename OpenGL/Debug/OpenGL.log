@@ -1,0 +1,114 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(29,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(35,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(46,70): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(97,30): warning C4305: 'argument': truncation from 'const double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(105,31): warning C4305: 'argument': truncation from 'const double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(181,28): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(212,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(216,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(220,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(224,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(228,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(232,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(236,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(240,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(265,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(265,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(269,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(269,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(273,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(297,21): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(322,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(329,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(361,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(365,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(369,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(373,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(377,21): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(378,21): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(382,21): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(383,21): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(387,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(391,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(395,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(399,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(470,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(475,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(481,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(481,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(485,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(485,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(486,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(486,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(487,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(487,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(489,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(525,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\src\Application.cpp(525,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Graphing\OpenGL\Debug\Graphing.exe
